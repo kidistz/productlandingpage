@@ -11,3 +11,43 @@ body{
     margin-left: 200px;
 
 }
+
+#header-img{
+    width: 20%;
+}
+a{
+ text-decoration: none;
+ color: black;
+
+}
+
+#header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(123, 123, 180);
+    
+}
+ul{
+    display:flex;
+    
+
+}
+li{
+    list-style: none;
+    padding: 0 1rem;
+    margin:1rem;
+}
+#video{
+    display:block;
+    margin: 2rem auto;
+}
+#form{
+    text-align: center;
+}
+.premium, .shipping, .quality{
+    padding: 2rem;
+    margin-left: 2rem;
+}
+#features{
+    padding-left: 5rem;
+}
